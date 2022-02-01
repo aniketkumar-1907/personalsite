@@ -1,0 +1,141 @@
+body{
+  font-family: sans-serif;
+  color:#40514E;
+}
+a{
+  text-decoration: none;
+  color:#11999E;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  color: #66BFBF;
+  line-height:2;
+}
+h2{
+  color:#11999E;
+  font-weight:normal;
+  font-size:30px;
+}
+h3{
+  color:#11999E;
+}
+.out{
+  background-color: #EAF6F6;
+  padding:5px;
+}
+.in{
+  background-color: #FFF89A;
+  margin-left:40%;
+  margin-right: 40%;
+  margin-top:5%;
+}
+.rightcloud{
+  margin-left: 80%;
+  margin-top:-5%;
+}
+.mountain{
+  margin-top:-2%;
+}
+.web{
+  font-size:26px;
+}
+.me{
+  margin-left:40%;
+  text-align:center;
+  margin-top:5%;
+  height:240px;
+  width:240px;
+}
+.chilli{
+  width:20%;
+  float:left;
+  margin-right: 30px;;
+}
+.computer{
+  width:20%;
+  float:right;
+  margin-left:30px;
+}
+.skill-row{
+  margin:20%;
+  margin-top:7%;
+}
+.My{
+  text-align:center;
+}
+.skill-row1{
+  margin:20%;
+  margin-top:-5%;
+}
+.bottom-container{
+  margin-top:-10%;
+  text-align: center;
+}
+.bot{
+  margin-top:1%;
+  text-align:center;
+}
+.underline{
+  text-decoration: underline;
+}
+hr{
+  border:dotted #436666 6px;
+  width:7%;
+  border-top-style: none;
+  margin-top:50px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4,  #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bot{
+  background-color: #66BFBF;
+  position:absolute;
+  width:100%;
+  margin-left:-0.6%;
+  height:20%;
+}
+.copyright{
+  color: #EAF6F6;
+
+}
+.footer-link{
+  color:#11999E;
+  padding-right: 25px;
+  padding-left:25px;
+}
+.bottom{
+  margin-bottom:6%;
+}
+.linkedin{
+  width:40px;
+  height:40px;
+}
+.twitter{
+  margin-top:1%;
+  width:50px;
+  height:50px;
+}
